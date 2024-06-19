@@ -1,1 +1,1 @@
-# Laser
+This respository will house laser cutting project files
